@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Documents\GitHub\Database-PBL\AxL Project-based Learning\AxL Project-based Learning\bin\Debug\AxL Project-based Learning.exe.config
+C:\Users\Lenovo\Documents\GitHub\Database-PBL\AxL Project-based Learning\AxL Project-based Learning\bin\Debug\AxL Project-based Learning.exe
+C:\Users\Lenovo\Documents\GitHub\Database-PBL\AxL Project-based Learning\AxL Project-based Learning\bin\Debug\AxL Project-based Learning.pdb
+C:\Users\Lenovo\Documents\GitHub\Database-PBL\AxL Project-based Learning\AxL Project-based Learning\bin\Debug\Guna.UI2.dll
+C:\Users\Lenovo\Documents\GitHub\Database-PBL\AxL Project-based Learning\AxL Project-based Learning\obj\Debug\AxL Project-based Learning.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\Database-PBL\AxL Project-based Learning\AxL Project-based Learning\obj\Debug\AxL_Project_based_Learning.Form1.resources
+C:\Users\Lenovo\Documents\GitHub\Database-PBL\AxL Project-based Learning\AxL Project-based Learning\obj\Debug\AxL_Project_based_Learning.Properties.Resources.resources
+C:\Users\Lenovo\Documents\GitHub\Database-PBL\AxL Project-based Learning\AxL Project-based Learning\obj\Debug\AxL Project-based Learning.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\GitHub\Database-PBL\AxL Project-based Learning\AxL Project-based Learning\obj\Debug\AxL Project-based Learning.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\Database-PBL\AxL Project-based Learning\AxL Project-based Learning\obj\Debug\AxL Project-based Learning.csproj.CopyComplete
+C:\Users\Lenovo\Documents\GitHub\Database-PBL\AxL Project-based Learning\AxL Project-based Learning\obj\Debug\AxL Project-based Learning.exe
+C:\Users\Lenovo\Documents\GitHub\Database-PBL\AxL Project-based Learning\AxL Project-based Learning\obj\Debug\AxL Project-based Learning.pdb
